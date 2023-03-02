@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oualahj Ouidad</h1>
 <h3 align="center">A software engineer student from Morocco</h3>
-https://camo.githubusercontent.com/f8f2f3cc6811ee23a1cdd325286966e7b4ff8ae403328bc3cbd39984a11e748d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f333837363537342f73637265656e73686f74732f393739333034312f6769726c5f6c6170746f705f383030783630302e676966
+
+https://www.google.co.ma/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fstickers%2Fsearch%2Fprogramme&psig=AOvVaw184_aLyfeAOFA3-BRcIcUr&ust=1677864323081000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPDHvLDSvf0CFQAAAAAdAAAAABAQ
 
 - 🔭 I’m currently exploring **new technologies and learning as much as I can**
 

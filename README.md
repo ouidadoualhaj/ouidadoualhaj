@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oualahj Ouidad</h1>
-<h3 align="center">A software engineer student from Morocco</h3>
-<img align="center" alt="it's me !" src="https://thumbs.gfycat.com/YearlyLoneBarnowl-max-1mb.gif"></img>
+<h3 align="center">A software engineer student</h3>
+<img style="margin-left: 50%" alt="it's me !" src="https://thumbs.gfycat.com/YearlyLoneBarnowl-max-1mb.gif"></img>
 
-- 🔭 I’m currently exploring **new technologies and learning as much as I can**
+- 🔭 I’m currently exploring new technologies and learning as much as I can
 
-- 🌱 I'am passionate **about learning and continuously expanding my knowledge**
+- 🌱 I'am passionate about learning and continuously expanding my knowledge
 
 - 👯 I’m looking to collaborate on new projects
 

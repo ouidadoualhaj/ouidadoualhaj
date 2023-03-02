@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oualahj Ouidad</h1>
 <h3 align="center">A software engineer student from Morocco</h3>
-<img alt="it's me !" src="https://thumbs.gfycat.com/YearlyLoneBarnowl-max-1mb.gif"></img>
+<img align="center" alt="it's me !" src="https://thumbs.gfycat.com/YearlyLoneBarnowl-max-1mb.gif"></img>
 
 - 🔭 I’m currently exploring **new technologies and learning as much as I can**
 
@@ -9,8 +9,6 @@
 - 👯 I’m looking to collaborate on new projects
 
 - 📫 How to reach me ouidad.oualhaj@etu.uae.ac.ma || send me a message on LinkedIn : ouidad oualhaj
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

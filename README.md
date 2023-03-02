@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oualahj Ouidad</h1>
 <h3 align="center">A software engineer student from Morocco</h3>
-<img alt="it's me !" src="https://www.google.co.ma/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fstickers%2Fsearch%2Fprogramme&psig=AOvVaw184_aLyfeAOFA3-BRcIcUr&ust=1677864323081000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPDHvLDSvf0CFQAAAAAdAAAAABAQ
-" >
+<img alt="it's me !" src="https://thumbs.gfycat.com/YearlyLoneBarnowl-max-1mb.gif"></img>
 
 - 🔭 I’m currently exploring **new technologies and learning as much as I can**
 

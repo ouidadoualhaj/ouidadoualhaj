@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Oualahj Ouidad</h1>
+<h1 align="center">Hi 👋 I'm Oualhaj Ouidad</h1>
 <h3 align="center">A software engineer student</h3>
 <img align="right" alt="it's me !" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></img>
 
